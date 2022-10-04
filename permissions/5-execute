@@ -1,3 +1,2 @@
 #!/bin/bash
--rwxrw-r-- 1 permissions
-
+chmod u+x hello
