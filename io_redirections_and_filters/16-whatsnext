@@ -1,0 +1,2 @@
+#!/bin/bash
+gir -A 3 root /etc/passwd
