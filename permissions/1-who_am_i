@@ -1,2 +1,2 @@
 #!/bin/bash
-echo SUSER
+echo $USER
